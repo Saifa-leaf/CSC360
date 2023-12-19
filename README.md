@@ -1,4 +1,4 @@
-# CSC360
+# CSC360 operating system
 
 This repository contain all the work from csc360 class at UVIC. All the work is done in C and required linux or linux environment to run the file.
 The topic cover in class focus on operating system which include 
